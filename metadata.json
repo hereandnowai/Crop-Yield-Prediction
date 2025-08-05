@@ -1,0 +1,6 @@
+{
+  "name": "Crop Yield Prediction",
+  "description": "An AI-powered application that predicts crop yield based on satellite imagery, historical weather data, and soil condition analysis. The system helps farmers and agribusinesses make informed decisions for planting, harvesting, and resource planning.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
